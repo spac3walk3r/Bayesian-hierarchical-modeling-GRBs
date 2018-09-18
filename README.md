@@ -2,5 +2,4 @@
 
 ![pipeline](pipeline.png)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[SUMMARY & RESULTS](https://github.com/spac3walk3r/Bayesian-hierarchical-modeling-GRBs/blob/master/poster_presentation.pdf)
